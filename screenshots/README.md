@@ -1,4 +1,6 @@
 Screenshots for SOC Home Lab:
-- Splunk dashboards
-- Sysmon events
-- Forwarder status
+sysmon.png
+forwarder.png
+splunk_search.png
+eventcode1.png
+inputs_conf.png
